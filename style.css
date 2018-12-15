@@ -48,6 +48,7 @@ footer {
 	transition: 0.3s;
 }
 nav {
+	background: rgba(0,0,0,0.6);
 	position: static;
 	width: 100%;
 }
