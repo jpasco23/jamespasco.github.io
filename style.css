@@ -63,7 +63,7 @@ nav ul {
 	transition: 1s;
 }
 nav.black ul {
-	background: rgba(0,0,0,0.6);
+	background: rgba(0,0,0,0.5);
 }
 nav ul li {
 	display: inline-block;
