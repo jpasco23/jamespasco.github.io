@@ -27,7 +27,7 @@ footer {
 	text-align: justify;
 }
 .logo {
-	position: fixed;
+	position: static;
 	float: left;
 	margin: 16px 36px;
 	color: #fff;
@@ -48,7 +48,7 @@ footer {
 	transition: 0.3s;
 }
 nav {
-	background: rgba(0,0,0,0.6);
+	background: rgba(0,0,0,0.5);
 	position: static;
 	width: 100%;
 }
