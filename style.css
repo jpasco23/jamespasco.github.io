@@ -48,7 +48,7 @@ footer {
 	transition: 0.3s;
 }
 nav {
-	position: fixed;
+	position: static;
 	width: 100%;
 }
 nav ul {
